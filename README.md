@@ -1,2 +1,0 @@
-# agendaPy
-Desarrollo de agenda
